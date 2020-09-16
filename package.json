@@ -24,6 +24,9 @@
     "nodemon": "^2.0.4"
   },
   "dependencies": {
+    "bull": "^3.18.0",
+    "bull-board": "^0.9.0",
+    "dot-env": "0.0.1",
     "dotenv": "^8.2.0",
     "jsdom": "^16.4.0",
     "node-fetch": "^2.6.1",
